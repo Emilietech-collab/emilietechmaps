@@ -20,7 +20,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../accueil/9bf62b82-0227-4ac1-85e8-fe3a35d2d7ef.jpeg'); /* Image aléatoire de démonstration */
+    background-image: url('accueil/9bf62b82-0227-4ac1-85e8-fe3a35d2d7ef.jpeg'); /* Image aléatoire de démonstration */
     background-size: cover;
     background-position: center;
     filter: blur(5px);
